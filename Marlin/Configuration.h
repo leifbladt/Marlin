@@ -1374,7 +1374,7 @@
  *
  * View the current statistics with M78.
  */
-//#define PRINTCOUNTER
+#define PRINTCOUNTER
 
 //=============================================================================
 //============================= LCD and SD support ============================
@@ -1559,11 +1559,7 @@
 // RigidBot Panel V1.0
 // http://www.inventapart.com/
 //
-<<<<<<< HEAD
-//#define RIGIDBOT_PANEL
-=======
 #define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
->>>>>>> Activate display (with SD card)
 
 //
 // Makeboard 3D Printer Parts 3D Printer Mini Display 1602 Mini Controller
