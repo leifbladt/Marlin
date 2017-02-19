@@ -1564,7 +1564,7 @@
 // RigidBot Panel V1.0
 // http://www.inventapart.com/
 //
-#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+//#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
 
 //
 // Makeboard 3D Printer Parts 3D Printer Mini Display 1602 Mini Controller
@@ -1715,7 +1715,7 @@
 //
 // SSD1306 OLED full graphics generic display
 //
-//#define U8GLIB_SSD1306
+#define U8GLIB_SSD1306
 
 //
 // SAV OLEd LCD module support using either SSD1306 or SH1106 based LCD modules
